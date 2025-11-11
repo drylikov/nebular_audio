@@ -89,3 +89,4 @@ custom_rules:
     message: "Indentation must be a multiple of 4 spaces"
     severity: warning
 
+
