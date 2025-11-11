@@ -88,3 +88,4 @@ custom_rules:
     regex: "^(    )* {1,3}(let|var|if|for|return|func|class|static|override|extension|\})"
     message: "Indentation must be a multiple of 4 spaces"
     severity: warning
+
